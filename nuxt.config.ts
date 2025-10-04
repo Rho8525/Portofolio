@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   app: {
     baseURL: '/Portofolio/',
+    buildAssetsDir: '/_nuxt/',
   },
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },

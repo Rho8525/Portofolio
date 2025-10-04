@@ -7,22 +7,22 @@
         <li
           class="hover:-translate-y-1 hover:scale-[1.1] animation-transform duration-300"
         >
-          <a href="/#hello">Hello</a>
+          <a href="#hello">Hello</a>
         </li>
         <li
           class="hover:-translate-y-1 hover:scale-[1.1] animation-transform duration-300"
         >
-          <a href="/#about">About</a>
+          <a href="#about">About</a>
         </li>
         <li
           class="hover:-translate-y-1 hover:scale-[1.1] animation-transform duration-300"
         >
-          <a href="/#skills">Skills</a>
+          <a href="#skills">Skills</a>
         </li>
         <li
           class="hover:-translate-y-1 hover:scale-[1.1] animation-transform duration-300"
         >
-          <a href="/#contact">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
     </nav>
@@ -103,7 +103,7 @@
             You can contact me via Discord, just join my server
             <a href="https://discord.gg/hyKyxGatqV"><u>here</u></a>
           </p>
-          <a class="opacity-20 relative left-full" href="/#after">next</a>
+          <a class="opacity-20 relative left-full" href="#after">next</a>
         </div>
       </div>
     </div>

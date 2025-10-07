@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   app: {
-    baseURL: '/Portofolio/',
+    baseURL: 'https://rho8525.github.io/Portofolio',
     buildAssetsDir: '/_nuxt/',
   },
   compatibilityDate: '2025-07-15',
